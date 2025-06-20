@@ -1,8 +1,8 @@
 cask 'hyperdirmic' do
-  version '0.1.1'
-  sha256 'a49b95c69e5a17e891dc38c8a48b5042a7ceed26a384fea0b104ebe71aaa377d'
+  version '1.0.0'
+  sha256 '6884d23b741fe32fa20e65c454e3a3685352f37310ff2612855c47b40b64313a'
 
-  url 'https://github.com/Drucial/hyperdirmic-app/releases/download/v0.1.1/Hyperdirmic.zip',
+  url 'https://github.com/Drucial/hyperdirmic-app/releases/download/v1.0.0/Hyperdirmic.zip',
       verified: 'github.com/Drucial/hyperdirmic/'
   name 'Hyperdirmic'
   desc 'Minimal macOS tray app that automatically organizes your Downloads folder'
